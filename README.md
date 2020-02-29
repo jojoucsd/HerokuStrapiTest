@@ -4,19 +4,19 @@
 
 yarn install / npm install
 
-```heroku login ```
-```git init```
-```git add .```
-```git commit -m "Initial Commit"```
-```heroku create <appName>```
-```heroku addons:create heroku-postgresql:hobby-dev```
-```heroku config```
-```heroku config:set DATABASE_USERNAME=<before :>```
-```heroku config:set DATABASE_PASSWORD=<after :  befroe @>```
-```heroku config:set DATABASE_HOST=<after @ before : >```
-```heroku config:set DATABASE_PORT=5432```
-```heroku config:set DATABASE_NAME=<after / >```
-```git  push heroku master```
+* ```heroku login ```
+* ```git init```
+* ```git add .```
+* ```git commit -m "Initial Commit"```
+* ```heroku create <appName>```
+* ```heroku addons:create heroku-postgresql:hobby-dev```
+* ```heroku config```
+* ```heroku config:set DATABASE_USERNAME=<before :>```
+* ```heroku config:set DATABASE_PASSWORD=<after :  befroe @>```
+* ```heroku config:set DATABASE_HOST=<after @ before : >```
+* ```heroku config:set DATABASE_PORT=5432```
+* ```heroku config:set DATABASE_NAME=<after / >```
+* ```git  push heroku master```
 
 * heroku may ask you yarn install again or yarn again depends if throw errors on yarn is outdated 
 
