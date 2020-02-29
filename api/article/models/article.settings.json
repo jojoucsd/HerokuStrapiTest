@@ -1,0 +1,19 @@
+{
+  "info": {
+    "name": "article"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "createDate": {
+      "type": "datetime"
+    }
+  },
+  "connection": "default",
+  "collectionName": "articles"
+}
