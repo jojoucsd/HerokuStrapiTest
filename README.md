@@ -33,8 +33,9 @@ heroku build should be success but heroku open will leads your to ``` heroku log
 
 And similar errors shows like 
 
-**[2020-02-29T21:08:18.400Z] error Impossible to register the 'article' model.**
-**[2020-02-29T21:08:18.401Z] error error: column "xyz" contains null values.**
+* **[2020-02-29T21:08:18.400Z] error Impossible to register the 'article' model.**
+
+* **[2020-02-29T21:08:18.401Z] error error: column "xyz" contains null values.**
 
 
 
